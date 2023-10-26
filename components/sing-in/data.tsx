@@ -39,6 +39,7 @@ const DataPage = () => {
             <Box display={"flex"} flexDirection={"column"} width={"100%"}>  
             
             <Box display={"flex"} flexDirection={"row"}  width={"100%"}> 
+            
                 <Typography color={"#111827"} textAlign={"left"} fontSize={16}>Clave del producto y/o servicio </Typography> 
                 <Box display={"flex"} flexDirection={"row"}> 
                 <TextField sx={{width:"15%",  borderRadius:2, backgroundColor: "#0000000F"}}/>
